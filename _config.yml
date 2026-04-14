@@ -100,7 +100,7 @@ cdn:
 # the avatar on sidebar, support local or CORS resources
 avatar: "/assets/img/odins_insight_image.png"
 
-favicon: "/assets/img/odins_insight_image.ico"
+favicon: "/assets/img/favicon/favicon.ico"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
