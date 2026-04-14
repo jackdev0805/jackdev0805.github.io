@@ -24,19 +24,20 @@ My approach will follow a consistent cycle:
 ```text
 Theory → Implementation → Problems → Solutions → Understanding
 Through building my own systems—from fundamentals to advanced concepts—I intend to create meaningful value and contribute to this ecosystem.
+```
 
-⸻
+--- 
 
-Closing Thoughts
+# Closing Thoughts
 
 This blog is not just a record of what I learn, but a reflection of how I grow as a developer.
 
-⸻
+---
 
-English Summary
-	•	Transitioning careers requires courage and letting go of accumulated advantages
-	•	Blockchain represents a fundamental shift in global financial infrastructure
-	•	I aim to understand and implement core systems such as Bitcoin, UTXO, and smart contracts
-	•	This blog documents my journey through hands-on development and continuous learning
+# English Summary
+- Transitioning careers requires courage and letting go of accumulated advantages
+- Blockchain represents a fundamental shift in global financial infrastructure
+- I aim to understand and implement core systems such as Bitcoin, UTXO, and smart contracts
+- This blog documents my journey through hands-on development and continuous learning
 
 ---
